@@ -1,4 +1,4 @@
-export const API = "https://api-libnation.sangsakawira.info/"
+export const API = "https://api-libnation.sangsakawira.info"
 export const books = [{
     image: "assets/images/image-1.png",
     title: "Harry Potter",
